@@ -45,6 +45,10 @@ form {
     margin-top: 20px;
 }
 
+input:defined {
+    background: none;
+}
+
 #refresh {
     width: 100px;
     height: 38px;
